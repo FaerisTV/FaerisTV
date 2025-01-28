@@ -54,5 +54,6 @@ Bienvenue sur mon profil GitHub! Je suis Lucas Provendier, étudiant en 2e anné
 ## Contact 📱
 
 - **Email :** lucaspro16@gmail.com
+- **Linkedin :** https://www.linkedin.com/in/lucas-provendier
 
 Merci de visiter mon profil!
